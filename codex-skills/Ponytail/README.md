@@ -31,7 +31,7 @@ $ponytail full
 
 ### 來源與調整
 
-作者：Dietrich Gebert · [上游來源與選用版本（v4.10.0）](https://github.com/DietrichGebert/ponytail/tree/e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156/skills/ponytail) · [上游授權：MIT](https://github.com/DietrichGebert/ponytail/blob/e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156/LICENSE)
+作者：Dietrich Gebert · [上游來源與選用版本（v4.10.0）](https://github.com/DietrichGebert/ponytail/tree/1d95ff7d39de12d87014ea40d4e22201bddc501b/skills/ponytail) · [上游授權：MIT](https://github.com/DietrichGebert/ponytail/blob/1d95ff7d39de12d87014ea40d4e22201bddc501b/LICENSE)
 
 安裝使用固定版本，保留上游指令及授權，並設定為手動呼叫才啟動。
 
@@ -71,7 +71,7 @@ The upstream instructions keep Ponytail active in the current conversation after
 
 ### Source and adaptations
 
-Author: Dietrich Gebert · [Upstream source and selected version (v4.10.0)](https://github.com/DietrichGebert/ponytail/tree/e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156/skills/ponytail) · [Upstream license: MIT](https://github.com/DietrichGebert/ponytail/blob/e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156/LICENSE)
+Author: Dietrich Gebert · [Upstream source and selected version (v4.10.0)](https://github.com/DietrichGebert/ponytail/tree/1d95ff7d39de12d87014ea40d4e22201bddc501b/skills/ponytail) · [Upstream license: MIT](https://github.com/DietrichGebert/ponytail/blob/1d95ff7d39de12d87014ea40d4e22201bddc501b/LICENSE)
 
 Installation uses a pinned revision, preserves upstream instructions and licensing, and configures explicit invocation.
 

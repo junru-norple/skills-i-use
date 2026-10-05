@@ -4,7 +4,7 @@
 Repository：https://github.com/DietrichGebert/ponytail
 Skill 目錄：skills/ponytail
 版本：v4.10.0
-Commit：e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156
+Commit：1d95ff7d39de12d87014ea40d4e22201bddc501b
 SKILL.md SHA-256：1316A2F3F95741D2300B116FE0C2D81CE4A9568656ED0A62643F54AAF09957F2
 授權檔：該版本根目錄的 LICENSE（MIT；Copyright (c) 2026 DietrichGebert）
 安裝位置：%USERPROFILE%\.agents\skills\ponytail
@@ -36,7 +36,7 @@ Install Ponytail in local Windows Codex with explicit invocation. This is the sa
 Repository: https://github.com/DietrichGebert/ponytail
 Skill directory: skills/ponytail
 Version: v4.10.0
-Commit: e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156
+Commit: 1d95ff7d39de12d87014ea40d4e22201bddc501b
 SKILL.md SHA-256: 1316A2F3F95741D2300B116FE0C2D81CE4A9568656ED0A62643F54AAF09957F2
 License: root LICENSE at that revision (MIT; Copyright (c) 2026 DietrichGebert)
 Destination: %USERPROFILE%\.agents\skills\ponytail
